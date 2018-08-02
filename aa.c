@@ -2,6 +2,5 @@
 main()
 {
 	int n=1;
-	for(n=1;n<10;n++)
-		printf("%d",n);
-}
+	for(n=1;n<120;n++)
+		printf("%d",n); }
