@@ -5,8 +5,13 @@ main()
 <<<<<<< HEAD
 	for(n=1;n<=120;n++)
 		printf("%d",n);
+
+
+
+
 }
 
+printf("heloooo");
 =======
 	for(n=1;n<10;n++)
 		printf("%d",n);
